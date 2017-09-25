@@ -133,6 +133,10 @@ Q: Why my antivirus detects this as a virus?
 
 A: You can clearly see the source code of this tool and verify that's not doing anything malicious on your computer. Howerer, some antiviruses simply don't like AutoIt and immediately flag anything made with it as a virus. If your antivirus does that, either add ARDS Firmware Tool to the whitelist or change it altogether, as it's probably not a good one.
 
+Q: Windows only? What about Linux/mac OS?
+
+W: Code Manager only works on Windows, so it would be pretty pointless to make a version of this tool that runs on anything else than Windows.
+
 ### Credits
 
 * al3x_10m for the original NTRBoot on ARDS implementation

@@ -1,6 +1,8 @@
 # ards-firmwaretool
 ARDS Firmware Tool is an all-in-one tool meant for regular users and developers alike to edit, extract and create NTRBoot compatible firmware files for the Action Replay DS/EZ/Media Edition/DSi. __You don't need to patch Code Manager to flash firmware files generated with this tool, as it automatically calculates the correct checksum for them!__ Not only that, but generated files also tend to be __very small__ as everything that's not needed is trimmed away (the file size of a firmware containing Boot9Strap v1.3 is only 62kb, _less than a third_ of the size of the previous implementation!)
 
+_This program doesn't come with any implicit or explicit warranties. Whatever you do with it is your own responsability and, while every function except the DSi ones have been tested many times, by using this tool you're agreeing that I'm not liable of any damages made by using it._
+
 The tool includes several functions:
 
 * Simple NTRBoot firmware generation
@@ -125,6 +127,11 @@ A: When Code Manager flashes an Action Replay DS Media Edition firmware, it will
 Q: Why can't I use an official Action Replay DS Media Edition firmware to restore my own one?
 
 A: See the question above.
+
+
+Q: Why my antivirus detects this as a virus?
+
+A: You can clearly see the source code of this tool and verify that's not doing anything malicious on your computer. Howerer, some antiviruses simply don't like AutoIt and immediately flag anything made with it as a virus. If your antivirus does that, either add ARDS Firmware Tool to the whitelist or change it altogether, as it's probably not a good one.
 
 ### Credits
 

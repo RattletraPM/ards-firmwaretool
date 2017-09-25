@@ -133,9 +133,15 @@ Q: Why my antivirus detects this as a virus?
 
 A: You can clearly see the source code of this tool and verify that's not doing anything malicious on your computer. Howerer, some antiviruses simply don't like AutoIt and immediately flag anything made with it as a virus. If your antivirus does that, either add ARDS Firmware Tool to the whitelist or change it altogether, as it's probably not a good one.
 
+
 Q: Windows only? What about Linux/mac OS?
 
-W: Code Manager only works on Windows, so it would be pretty pointless to make a version of this tool that runs on anything else than Windows.
+A: Code Manager only works on Windows, so it would be pretty pointless to make a version of this tool that runs on anything else than Windows.
+
+
+Q: So, if I can flash ANY file to an Action Replay... does it mean that I can flash ROMs to it?
+
+A: Quick answer - not really. More detailed answer - 1 MB is too small for any commercial ROM and you'll have to rearrange some stuff in order to match the internal structure of the ARDS' NAND. Homebrew ROMS are more likely to work, but I doubt any commercial ROM will likely work.
 
 ### Credits
 

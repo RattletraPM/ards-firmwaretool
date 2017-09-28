@@ -15,7 +15,7 @@ Just like the Simple function, this is meant for people who want to use NTRBoot 
 
 * Extract firmware from ROM
 
-Do you want to restore your own ARDS to its previous state but you can't find your firmware online? No problem! ARDS Firmware Tool can __extract a flashable firmware file from an ARDS ROM dump.__ This is especially useful for ARDS ME users, as it's _the only way to restore an ARDS ME to working conditions after an NTRBoot install._
+Do you want to restore your own ARDS to its previous state but you can't find your firmware online? No problem! ARDS Firmware Tool can __extract a flashable firmware file from an ARDS ROM dump.__ This is especially useful for ARDS ME users, as it's _the only way to restore an ARDS ME to working conditions after a NTRBoot install._
 
 * Header tools
 
@@ -23,7 +23,7 @@ A collection of functions to view and edit ARDS firmware file headers. You can e
 
 ### How to flash a firmware to an ARDS
 
-Keep in mind that you need another Action Replay of your same model or a flashcart if you want to restore your ARDS/EZ/Media Edition to its previous condition after you've installed an NTRBoot compatible firmware! (See the "How to restore an ARDS" section for more info)
+Keep in mind that you need another Action Replay of your same model or a flashcart if you want to restore your ARDS/EZ/Media Edition to its previous condition after you've installed a NTRBoot compatible firmware! (See the "How to restore an ARDS" section for more info)
 
 * Action Replay DS / EZ
 

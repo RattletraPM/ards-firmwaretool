@@ -10,6 +10,7 @@ The tool includes several functions:
 __This function is meant for people following Plailect's guide and is meant to generate a firmware with Boot9Strap as fast and easily as possible__. You only need to select your ARDS model and click a button, then the tool will automatically download the lates B9S version for the internet and care about everything else. After generating the firmware you just need to flash it via Code Manager like any other firmware and you're done! (Things are a little bit different for an Action Replay DS Media Edition, read the "How to flash firmwares" section for that.)
 
 * Advanced NTRBoot firmware generation:
+
 Just like the Simple function, this is meant for people who want to use NTRBoot on their system, but with it __you can inject your own FIRMs (such as Godmode9 for NTRBoot) and it also works for both Retail and Devkit units__. As you need to provide your own FIRM files, this function works completely offline.
 
 * Extract firmware from ROM
